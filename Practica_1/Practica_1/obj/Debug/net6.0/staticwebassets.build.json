@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "dTkVZBRLbMEMV4JkC0VfYsAiSoDTPyoO9Hnta0BjXvU=",
+  "Source": "Practica_1",
+  "BasePath": "_content/Practica_1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Practica_1\\wwwroot",
+      "Source": "Practica_1",
+      "ContentRoot": "C:\\Users\\figue\\source\\repos\\Practica_1\\Practica_1\\wwwroot\\",
+      "BasePath": "_content/Practica_1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\figue\\source\\repos\\Practica_1\\Practica_1\\wwwroot\\images\\imgClientLawyer.jpg",
+      "SourceId": "Practica_1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\figue\\source\\repos\\Practica_1\\Practica_1\\wwwroot\\",
+      "BasePath": "_content/Practica_1",
+      "RelativePath": "images/imgClientLawyer.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\imgClientLawyer.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\figue\\source\\repos\\Practica_1\\Practica_1\\wwwroot\\images\\imgLawyer.jpg",
+      "SourceId": "Practica_1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\figue\\source\\repos\\Practica_1\\Practica_1\\wwwroot\\",
+      "BasePath": "_content/Practica_1",
+      "RelativePath": "images/imgLawyer.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\imgLawyer.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\figue\\source\\repos\\Practica_1\\Practica_1\\wwwroot\\images\\logoLawFirm.png",
+      "SourceId": "Practica_1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\figue\\source\\repos\\Practica_1\\Practica_1\\wwwroot\\",
+      "BasePath": "_content/Practica_1",
+      "RelativePath": "images/logoLawFirm.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logoLawFirm.png"
+    }
+  ]
+}
